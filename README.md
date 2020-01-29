@@ -1,6 +1,6 @@
 # ConsoleG
 
-### himekuri_shaperのdotnet版です。
+### himekuriのdotnet版です。
 
 ```markdown
 GitHub packageに登録してあります。
