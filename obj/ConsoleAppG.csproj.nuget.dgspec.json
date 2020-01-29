@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\himekuri_shaper\\ConsoleAppG\\ConsoleAppG.csproj": {}
+    "D:\\ConsoleAppG\\ConsoleAppG.csproj": {}
   },
   "projects": {
-    "D:\\himekuri_shaper\\ConsoleAppG\\ConsoleAppG.csproj": {
+    "D:\\ConsoleAppG\\ConsoleAppG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\himekuri_shaper\\ConsoleAppG\\ConsoleAppG.csproj",
-        "projectName": "himekuri_shaper",
-        "projectPath": "D:\\himekuri_shaper\\ConsoleAppG\\ConsoleAppG.csproj",
+        "projectUniqueName": "D:\\ConsoleAppG\\ConsoleAppG.csproj",
+        "projectName": "ConsoleG",
+        "projectPath": "D:\\ConsoleAppG\\ConsoleAppG.csproj",
         "packagesPath": "C:\\Users\\sudok\\.nuget\\packages\\",
-        "outputPath": "D:\\himekuri_shaper\\ConsoleAppG\\obj\\",
+        "outputPath": "D:\\ConsoleAppG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
+          "D:\\ConsoleAppG\\NuGet.Config",
           "C:\\Users\\sudok\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -26,7 +27,7 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "https://nuget.pkg.github.com/takkii/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

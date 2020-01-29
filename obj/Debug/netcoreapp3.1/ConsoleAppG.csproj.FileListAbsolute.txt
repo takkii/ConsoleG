@@ -9,3 +9,14 @@ D:\himekuri_shaper\ConsoleAppG\obj\Debug\netcoreapp3.1\ConsoleAppG.AssemblyInfoI
 D:\himekuri_shaper\ConsoleAppG\obj\Debug\netcoreapp3.1\ConsoleAppG.AssemblyInfo.cs
 D:\himekuri_shaper\ConsoleAppG\obj\Debug\netcoreapp3.1\ConsoleAppG.dll
 D:\himekuri_shaper\ConsoleAppG\obj\Debug\netcoreapp3.1\ConsoleAppG.pdb
+D:\ConsoleAppG\bin\Debug\netcoreapp3.1\ConsoleAppG.exe
+D:\ConsoleAppG\bin\Debug\netcoreapp3.1\ConsoleAppG.deps.json
+D:\ConsoleAppG\bin\Debug\netcoreapp3.1\ConsoleAppG.runtimeconfig.json
+D:\ConsoleAppG\bin\Debug\netcoreapp3.1\ConsoleAppG.runtimeconfig.dev.json
+D:\ConsoleAppG\bin\Debug\netcoreapp3.1\ConsoleAppG.dll
+D:\ConsoleAppG\bin\Debug\netcoreapp3.1\ConsoleAppG.pdb
+D:\ConsoleAppG\obj\Debug\netcoreapp3.1\ConsoleAppG.csprojAssemblyReference.cache
+D:\ConsoleAppG\obj\Debug\netcoreapp3.1\ConsoleAppG.AssemblyInfoInputs.cache
+D:\ConsoleAppG\obj\Debug\netcoreapp3.1\ConsoleAppG.AssemblyInfo.cs
+D:\ConsoleAppG\obj\Debug\netcoreapp3.1\ConsoleAppG.dll
+D:\ConsoleAppG\obj\Debug\netcoreapp3.1\ConsoleAppG.pdb
