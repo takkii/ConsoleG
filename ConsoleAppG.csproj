@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <PackageId>ConsoleG</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>takkii</Authors>
     <Company>GitHub</Company>
     <PackageDescription>This package is ConsoleAppG adds and takkii !</PackageDescription>
